@@ -60,7 +60,7 @@ I’m focused on **architecture, performance, clean code, and business-driven so
 ## 🚀 Philosophy
 
 > _"Its not just about Code  
-> but about to solving problems."_
+> but about solving problems."_
 
 ---
 
