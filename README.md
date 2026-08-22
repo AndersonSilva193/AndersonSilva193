@@ -1,6 +1,6 @@
 # Hi 👋, I'm Anderson Silva
 
-🚀 **Student Software Engineer | Python & Java programmer**  
+🚀 **Software Engineering Student | Python & Java programmer**  
 🇧🇷 Brazil
 
 I build **scalable products**, and **web systems**.  
