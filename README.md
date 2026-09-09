@@ -1,6 +1,6 @@
 # Hi 👋, I'm Anderson Silva
 
-🚀 **Software Engineering Student | Python & Java programmer**  
+🚀 **Student Software Engineer | Java programmer**  
 🇧🇷 Brazil
 
 I build **scalable products**, and **web systems**.  
@@ -46,9 +46,9 @@ I’m focused on **architecture, performance, clean code, and business-driven so
 ### Backend
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![.NET](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### DevOps & Tools
 
@@ -60,12 +60,14 @@ I’m focused on **architecture, performance, clean code, and business-driven so
 ## 🚀 Philosophy
 
 > _"Its not just about Code  
-> but about solving problems."_
+> but about to solving problems."_
 
 ---
 
 ⭐ If you like my work, consider starring a repository  
 🤝 Always open to collaborations, partnerships, and cool ideas
+
+
 
 
 
