@@ -30,6 +30,7 @@ I’m focused on **architecture, performance, clean code, and business-driven so
 -   🏗️ systems
 -   ⚡ Performance optimization
 -   🧩 Clean architecture & system design
+-   🔐 Secure APIs & authentication
 -   🤖 Automation & integrations
 -   🏗️ CRUD
 
@@ -42,6 +43,7 @@ I’m focused on **architecture, performance, clean code, and business-driven so
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 ### Backend
 
@@ -55,6 +57,7 @@ I’m focused on **architecture, performance, clean code, and business-driven so
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 
 
 ## 🚀 Philosophy
